@@ -12,3 +12,4 @@ C:\tp8\tl1-tp8-2025-Agust1nSc\ToDo\obj\Debug\net9.0\refint\ToDo.dll
 C:\tp8\tl1-tp8-2025-Agust1nSc\ToDo\obj\Debug\net9.0\ToDo.pdb
 C:\tp8\tl1-tp8-2025-Agust1nSc\ToDo\obj\Debug\net9.0\ToDo.genruntimeconfig.cache
 C:\tp8\tl1-tp8-2025-Agust1nSc\ToDo\obj\Debug\net9.0\ref\ToDo.dll
+C:\tp8\tl1-tp8-2025-Agust1nSc\ToDo\obj\Debug\net9.0\ToDo.sourcelink.json
